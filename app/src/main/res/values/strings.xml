@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercício 23</string>
+    <string name="send">ENVIAR</string>
+    <string name="age">Idade</string>
+    <string name="lastname">Sobrenome</string>
+    <string name="email">E-Mail</string>
+    <string name="inser_your_data">INSIRA SEUS DADOS</string>
+    <string name="Nome">Nome</string>
+    <string name="meu_nome">Meu Nome:</string>
+    <string name="meu_sobrenome">Meu Sobrenome:</string>
+    <string name="minha_idade">Minha Idade:</string>
+</resources>
